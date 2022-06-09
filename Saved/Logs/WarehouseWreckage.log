@@ -1497,3 +1497,105 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.09-18.48.35:918][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
 [2022.06.09-18.48.35:925][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
 [2022.06.09-18.48.35:946][239]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.06.09-18.54.53:225][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.09-18.54.53:249][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2022.06.09-18.54.53:250][303]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Minimal_Default_Auto19AA71FAC41A331BED6437EA5A5AA078B.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.06.09-18.54.53:257][303]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.069
+[2022.06.09-18.54.53:257][303]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2022.06.09-19.43.19:969][307]LogDerivedDataCache: C:/Users/Renkai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.013 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.09-20.14.26:296][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2022.06.09-20.14.26:296][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2022.06.09-20.14.26:403][896]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1
+[2022.06.09-20.14.26:426][896]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1
+[2022.06.09-20.15.23:918][515]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.09-20.15.59:937][515]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.06.09-20.16.00:004][515]LogActorComponent: UnregisterComponent: (/Game/BP_Projectile.Default__BP_Projectile_C:StaticMeshComponent0) Not registered. Aborting.
+[2022.06.09-20.16.00:094][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.06.09-20.16.00:132][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Projectile.BP_Projectile
+[2022.06.09-20.16.00:132][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.09-20.16.01:492][515]LogViewport: Scene viewport resized to 988x745, mode Windowed.
+[2022.06.09-20.16.02:468][551]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2022.06.09-20.16.04:662][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.06.09-20.16.04:682][690]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2
+[2022.06.09-20.16.04:682][690]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Minimal_Default_Auto210EBB52046776C4BE70E7FA40DC8348C.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2022.06.09-20.16.04:695][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.078
+[2022.06.09-20.16.04:696][690]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2022.06.09-20.16.24:533][913]LogViewport: Scene viewport resized to 985x768, mode Windowed.
+[2022.06.09-20.16.24:617][915]LogViewport: Scene viewport resized to 467x296, mode Windowed.
+[2022.06.09-20.16.25:098][945]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2022.06.09-20.16.25:626][993]LogSlate: Window 'BP_Projectile' being destroyed
+[2022.06.09-20.16.52:043][ 41]LogSlate: Took 0.009323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.09-20.16.52:109][ 41]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.09-20.17.06:678][503]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2022.06.09-20.17.06:678][503]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2022.06.09-20.17.06:678][503]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_1
+[2022.06.09-20.17.06:678][503]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_1
+[2022.06.09-20.17.09:186][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2022.06.09-20.17.09:186][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2022.06.09-20.17.09:187][756]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_2
+[2022.06.09-20.17.09:187][756]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_2
+[2022.06.09-20.20.59:207][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2022.06.09-20.20.59:286][552]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2022.06.09-20.20.59:286][552]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/BP_ProjectileB4C1BDF54BE44BC4EB1AF58F03789B8D.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2022.06.09-20.20.59:304][552]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.09-20.20.59:304][552]LogContentValidation: Display: Validating Blueprint /Game/BP_Projectile.BP_Projectile
+[2022.06.09-20.21.04:536][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.06.09-20.21.04:556][ 63]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.06.09-20.21.04:556][ 63]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Minimal_Default3950D8D84E5D9A8A0867A7B3976BE639.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.06.09-20.21.04:567][ 63]LogFileHelpers: No new changes to save!
+[2022.06.09-20.21.04:567][ 63]LogFileHelpers: Saving map 'Minimal_Default' took 0.142
+[2022.06.09-20.21.04:583][ 63]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.06.09-20.21.04:583][ 63]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.06.09-20.21.07:480][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.09-20.21.07:490][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.09-20.21.07:490][331]PIE: New page: PIE session: Minimal_Default (Jun 9, 2022, 12:21:07 PM)
+[2022.06.09-20.21.07:490][331]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.06.09-20.21.07:495][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004826s)
+[2022.06.09-20.21.07:495][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004916s)
+[2022.06.09-20.21.07:495][331]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.09-20.21.07:495][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.09-20.21.07:495][331]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.09-20.21.07:496][331]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2022.06.09-20.21.07:560][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.06.09-20.21.07:564][331]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.06.09-20.21.07:564][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.09-20.21.07:564][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.09-20.21.07:564][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.09-20.21.07:564][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.09-20.21.07:564][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.09-20.21.07:564][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.09-20.21.07:564][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.09-20.21.07:564][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.09-20.21.07:564][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.09-20.21.07:564][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.09-20.21.07:564][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.09-20.21.07:566][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.09-20.21.07:592][331]LogAudioMixer: Display: Using Audio Hardware Device Speakers (THX Spatial Audio)
+[2022.06.09-20.21.07:592][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.09-20.21.07:592][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.09-20.21.07:592][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.09-20.21.07:594][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.06.09-20.21.07:594][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2022.06.09-20.21.07:595][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.06.09-20.21.07:595][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.06.09-20.21.07:595][331]LogInit: FAudioDevice initialized.
+[2022.06.09-20.21.07:595][331]LogAudio: Display: Audio Device (ID: 15) registered with world 'Minimal_Default'.
+[2022.06.09-20.21.07:614][331]LogLoad: Game class is 'GameModeBase'
+[2022.06.09-20.21.07:615][331]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.06.09-16.21.07
+[2022.06.09-20.21.07:615][331]LogWorld: Bringing up level for play took: 0.001304
+[2022.06.09-20.21.07:617][331]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.06.09-20.21.07:619][331]LogBlueprintUserMessages: [Minimal_Default_C_12] Welcome to Warehouse Wreckage!
+[2022.06.09-20.21.07:619][331]LogBlueprintUserMessages: [Minimal_Default_C_12] Get ready!
+[2022.06.09-20.21.07:619][331]PIE: Server logged in
+[2022.06.09-20.21.07:620][331]PIE: Play in editor total start time 0.13 seconds.
+[2022.06.09-20.21.32:089][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-20.21.32:089][ 26]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.06.09-20.21.32:112][ 26]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-20.21.32:112][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-20.21.32:127][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.09-20.21.32:136][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-20.21.32:183][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-20.21.32:183][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.06.09-20.21.32:185][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.06.09-20.21.32:192][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.06.09-20.21.32:249][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_20
