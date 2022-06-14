@@ -839,3 +839,45 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.14-22.02.18:107][539]LogFileHelpers: No new changes to save!
 [2022.06.14-22.02.18:120][539]AssetCheck: New page: Asset Save: Main
 [2022.06.14-22.02.18:120][539]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.06.14-22.03.10:678][238]Cmd: TRANSACTION UNDO
+[2022.06.14-22.03.10:678][238]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.14-22.03.14:339][495]Cmd: TRANSACTION UNDO
+[2022.06.14-22.03.14:340][495]LogEditorTransaction: Undo Move Elements
+[2022.06.14-22.03.15:066][516]Cmd: TRANSACTION UNDO
+[2022.06.14-22.03.15:066][516]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.14-22.03.20:668][ 14]Cmd: TRANSACTION UNDO
+[2022.06.14-22.03.20:668][ 14]LogEditorTransaction: Undo Move Elements
+[2022.06.14-22.03.27:283][600]Cmd: TRANSACTION UNDO
+[2022.06.14-22.03.27:284][600]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.14-22.04.13:875][828]Cmd: DELETE
+[2022.06.14-22.04.13:875][828]Cmd: ACTOR DELETE
+[2022.06.14-22.04.13:880][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:880][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:881][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:881][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:881][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:881][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:882][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:882][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:882][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:882][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:883][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:883][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:883][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:884][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:885][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:885][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:885][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:886][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:886][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:887][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:887][828]LogEditorActor: Deleted Actor: Brush
+[2022.06.14-22.04.13:897][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.14-22.04.13:908][828]LogEditorActor: Deleted 21 Actors (0.033 secs)
+[2022.06.14-22.04.39:736][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.14-22.04.39:744][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.06.14-22.04.39:768][569]LogSavePackage: Moving output files for package: /Game/Main
+[2022.06.14-22.04.39:768][569]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Main7A3635D949D5D2B0A2E4B0800F63DC17.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap'
+[2022.06.14-22.04.39:779][569]LogFileHelpers: No new changes to save!
+[2022.06.14-22.04.39:792][569]AssetCheck: New page: Asset Save: Main
+[2022.06.14-22.04.39:792][569]LogContentValidation: Display: Validating World /Game/Main.Main
