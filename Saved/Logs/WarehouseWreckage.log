@@ -795,3 +795,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.14-21.52.52:411][782]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.14-21.52.52:411][782]LogContentValidation: Display: Validating World /Game/Main.Main
 [2022.06.14-21.52.52:411][782]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2022.06.14-21.53.29:130][426]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.06.14-21.53.29:242][426]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.06.14-21.54.03:341][329]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.14-21.54.03:352][329]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.14-21.54.06:072][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.14-21.54.06:078][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.14-21.54.06:088][585]LogSavePackage: Moving output files for package: /Game/Main
+[2022.06.14-21.54.06:089][585]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/MainF49EF25440F2BCD340727E8E47A455A4.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap'
+[2022.06.14-21.54.06:098][585]LogFileHelpers: No new changes to save!
+[2022.06.14-21.54.06:109][585]AssetCheck: New page: Asset Save: Main
+[2022.06.14-21.54.06:109][585]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.06.14-21.54.24:618][752]LogDerivedDataCache: C:/Users/Renkai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.099 and deleted 0 file(s) with total size 0 MiB.
