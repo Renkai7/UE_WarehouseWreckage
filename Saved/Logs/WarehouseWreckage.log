@@ -807,3 +807,35 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.14-21.54.06:109][585]AssetCheck: New page: Asset Save: Main
 [2022.06.14-21.54.06:109][585]LogContentValidation: Display: Validating World /Game/Main.Main
 [2022.06.14-21.54.24:618][752]LogDerivedDataCache: C:/Users/Renkai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.099 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.14-21.55.07:833][320]LogViewport: Scene viewport resized to 1048x606, mode Windowed.
+[2022.06.14-21.55.07:904][322]LogViewport: Scene viewport resized to 1048x570, mode Windowed.
+[2022.06.14-21.55.07:950][324]LogViewport: Scene viewport resized to 1048x562, mode Windowed.
+[2022.06.14-21.55.07:991][326]LogViewport: Scene viewport resized to 1048x556, mode Windowed.
+[2022.06.14-21.55.08:036][328]LogViewport: Scene viewport resized to 1048x546, mode Windowed.
+[2022.06.14-21.55.08:076][330]LogViewport: Scene viewport resized to 1048x522, mode Windowed.
+[2022.06.14-21.55.08:121][332]LogViewport: Scene viewport resized to 1048x508, mode Windowed.
+[2022.06.14-21.55.08:164][334]LogViewport: Scene viewport resized to 1048x504, mode Windowed.
+[2022.06.14-21.55.08:206][336]LogViewport: Scene viewport resized to 1048x497, mode Windowed.
+[2022.06.14-21.55.08:249][338]LogViewport: Scene viewport resized to 1048x477, mode Windowed.
+[2022.06.14-21.55.08:299][340]LogViewport: Scene viewport resized to 1048x442, mode Windowed.
+[2022.06.14-21.55.08:359][344]LogViewport: Scene viewport resized to 1048x427, mode Windowed.
+[2022.06.14-21.55.08:435][350]LogViewport: Scene viewport resized to 1048x425, mode Windowed.
+[2022.06.14-21.55.08:475][352]LogViewport: Scene viewport resized to 1048x420, mode Windowed.
+[2022.06.14-21.55.11:184][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2022.06.14-21.55.11:189][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2022.06.14-21.55.11:191][574]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_0
+[2022.06.14-21.55.12:441][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2022.06.14-21.55.12:441][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2022.06.14-21.55.12:441][684]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_2
+[2022.06.14-21.55.43:053][995]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.14-22.00.05:050][118]Cmd: TRANSACTION UNDO
+[2022.06.14-22.00.05:050][118]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.14-22.00.05:584][127]Cmd: TRANSACTION UNDO
+[2022.06.14-22.00.05:584][127]LogEditorTransaction: Undo Move Elements
+[2022.06.14-22.02.18:052][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.14-22.02.18:063][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.14-22.02.18:096][539]LogSavePackage: Moving output files for package: /Game/Main
+[2022.06.14-22.02.18:096][539]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/MainE9FBF3B24062AE793C0798A7E37C1E2C.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap'
+[2022.06.14-22.02.18:107][539]LogFileHelpers: No new changes to save!
+[2022.06.14-22.02.18:120][539]AssetCheck: New page: Asset Save: Main
+[2022.06.14-22.02.18:120][539]LogContentValidation: Display: Validating World /Game/Main.Main
