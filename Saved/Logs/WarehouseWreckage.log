@@ -594,3 +594,42 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.14-01.47.23:172][  0]LogEngine: Initializing Engine...
 [2022.06.14-01.47.23:281][  0]LogStylusInput: Initializing StylusInput subsystem.
 [2022.06.14-01.47.23:292][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.14-01.47.24:845][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.14-01.47.24:846][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.14-01.47.24:872][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.14-01.47.24:963][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.14-01.47.24:965][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.14-01.47.25:071][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.14-01.47.25:075][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.14-01.47.25:075][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.14-01.47.25:103][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.14-01.47.25:103][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.14-01.47.25:103][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.14-01.47.25:103][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.14-01.47.25:104][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.14-01.47.25:104][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.14-01.47.25:104][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.14-01.47.25:104][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.14-01.47.25:104][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.14-01.47.25:104][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.14-01.47.25:104][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.14-01.47.25:104][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.14-01.47.25:104][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.14-01.47.25:184][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.14-01.47.25:241][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (THX Spatial Audio)
+[2022.06.14-01.47.25:242][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.14-01.47.25:247][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.14-01.47.25:247][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.14-01.47.25:247][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.14-01.47.25:247][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.06.14-01.47.25:249][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.14-01.47.25:249][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.14-01.47.25:249][  0]LogInit: FAudioDevice initialized.
+[2022.06.14-01.47.25:249][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.14-01.47.25:249][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.14-01.47.25:249][  0]LogInit: Texture streaming: Enabled
+[2022.06.14-01.47.25:437][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.14-01.47.25:473][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.14-01.47.25:771][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.14-01.47.25:851][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.14-01.47.25:851][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
