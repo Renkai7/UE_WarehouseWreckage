@@ -1589,3 +1589,754 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.14-22.58.13:560][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
 [2022.06.14-22.58.13:568][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
 [2022.06.14-22.58.13:626][636]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.06.14-23.08.07:043][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.14-23.08.07:074][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.06.14-23.08.07:113][664]LogSavePackage: Moving output files for package: /Game/Main
+[2022.06.14-23.08.07:114][664]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/MainBAD307BD4371954D078BFC939390A78A.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap'
+[2022.06.14-23.08.07:123][664]LogFileHelpers: No new changes to save!
+[2022.06.14-23.08.07:123][664]LogFileHelpers: Saving map 'Main' took 0.081
+[2022.06.14-23.08.07:138][664]AssetCheck: New page: Asset Save: Main
+[2022.06.14-23.08.07:138][664]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.06.14-23.27.16:875][452]LogDerivedDataCache: C:/Users/Renkai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.144 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.15-00.27.16:862][614]LogDerivedDataCache: C:/Users/Renkai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.138 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.15-00.27.32:410][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.06.15-00.27.32:416][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.15-00.27.32:469][659]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2022.06.15-00.27.32:469][659]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Main_Auto11CD1AC844AF9BD3C701033AD0A70A15C.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap'
+[2022.06.15-00.27.32:483][659]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.199
+[2022.06.15-00.27.32:483][659]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.199
+[2022.06.15-01.19.41:159][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.06.15-01.19.41:162][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.15-01.19.41:201][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto2
+[2022.06.15-01.19.41:201][774]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Main_Auto233A7A2034F8D52C10243FE94FB68C9A7.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap'
+[2022.06.15-01.19.41:209][774]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.088
+[2022.06.15-01.19.41:209][774]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2022.06.15-01.27.16:658][511]LogDerivedDataCache: C:/Users/Renkai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.144 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.15-02.27.16:659][502]LogDerivedDataCache: C:/Users/Renkai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.144 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.15-02.47.20:905][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-02.47.20:938][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.15-02.47.20:979][698]LogSavePackage: Moving output files for package: /Game/Main
+[2022.06.15-02.47.20:979][698]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Main249A76334F6EFAE303DD81BC519F0678.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap'
+[2022.06.15-02.47.20:991][698]LogFileHelpers: No new changes to save!
+[2022.06.15-02.47.20:991][698]LogFileHelpers: Saving map 'Main' took 0.086
+[2022.06.15-02.47.21:008][698]AssetCheck: New page: Asset Save: Main
+[2022.06.15-02.47.21:008][698]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.06.15-02.47.22:410][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.15-02.47.22:411][863]LogStall: Shutdown...
+[2022.06.15-02.47.22:416][863]LogStall: Shutdown complete.
+[2022.06.15-02.47.22:448][863]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-02.47.22:448][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-02.47.22:645][863]LogSlate: Window 'WarehouseWreckage - Unreal Editor' being destroyed
+[2022.06.15-02.47.22:864][864]Cmd: QUIT_EDITOR
+[2022.06.15-02.47.22:864][864]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.15-02.47.22:877][864]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.15-02.47.22:877][864]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.06.15-02.47.22:877][864]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.06.15-02.47.22:969][864]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.15-02.47.22:969][864]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.15-02.47.22:970][864]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2022.06.15-02.47.22:970][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.06.15-02.47.22:973][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.06.15-02.47.22:981][864]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.15-02.47.23:034][864]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.06.15-02.47.23:034][864]LogExit: Preparing to exit.
+[2022.06.15-02.47.23:070][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.06.15-02.47.23:104][864]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:104][864]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:108][864]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:109][864]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:109][864]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:109][864]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:109][864]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:109][864]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:109][864]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:109][864]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.23:109][864]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.06.15-02.47.24:338][864]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-02.47.24:341][864]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-02.47.24:344][864]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-02.47.24:346][864]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-02.47.24:349][864]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-02.47.24:359][864]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-02.47.24:423][864]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.15-02.47.24:428][864]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.06.15-02.47.24:429][864]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.06.15-02.47.24:434][864]LogExit: Editor shut down
+[2022.06.15-02.47.24:437][864]LogExit: Transaction tracking system shut down
+[2022.06.15-02.47.24:843][864]LogExit: Object subsystem successfully closed.
+[2022.06.15-02.47.24:853][864]LogShaderCompilers: Display: ================================================
+[2022.06.15-02.47.24:853][864]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.15-02.47.24:853][864]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.15-02.47.24:854][864]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.15-02.47.24:854][864]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.15-02.47.24:854][864]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.15-02.47.24:854][864]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.15-02.47.24:854][864]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.15-02.47.24:854][864]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.15-02.47.24:854][864]LogShaderCompilers: Display: ================================================
+[2022.06.15-02.47.24:900][864]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.15-02.47.24:936][864]LogModuleManager: Shutting down and abandoning module BlueprintGraph (884)
+[2022.06.15-02.47.24:936][864]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (882)
+[2022.06.15-02.47.24:936][864]LogModuleManager: Shutting down and abandoning module Voice (880)
+[2022.06.15-02.47.24:944][864]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (878)
+[2022.06.15-02.47.24:944][864]LogModuleManager: Shutting down and abandoning module SubobjectEditor (876)
+[2022.06.15-02.47.24:944][864]LogModuleManager: Shutting down and abandoning module SceneOutliner (874)
+[2022.06.15-02.47.24:944][864]LogModuleManager: Shutting down and abandoning module AddContentDialog (872)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module WidgetCarousel (871)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module StatusBar (868)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (866)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (858)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (852)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (850)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (848)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (846)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (844)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module WebMMedia (842)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (840)
+[2022.06.15-02.47.24:956][864]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (838)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module SequenceRecorder (837)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (834)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (832)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (830)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (828)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (826)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (824)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (822)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (820)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (818)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (816)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (814)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module PlanarCut (812)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module CharacterAI (810)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (808)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module TextureAlignMode (806)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module BspMode (804)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module GeometryMode (802)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module ControlRigEditor (800)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module AnimationEditor (799)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module SmartSnapping (796)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module IKRigEditor (794)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (792)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2022.06.15-02.47.24:957][864]LogModuleManager: Shutting down and abandoning module PlacementMode (785)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module ViewportSnapping (774)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module EditorWidgets (772)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (757)
+[2022.06.15-02.47.24:958][864]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (755)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (752)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (750)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (748)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (746)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module CSVtoSVG (744)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (742)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module EditorConfig (740)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (738)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module EditorFramework (736)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (734)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2022.06.15-02.47.25:935][864]MemoryProfiler: Shutdown
+[2022.06.15-02.47.25:935][864]NetworkingProfiler: Shutdown
+[2022.06.15-02.47.25:935][864]LoadingProfiler: Shutdown
+[2022.06.15-02.47.25:935][864]TimingProfiler: Shutdown
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (727)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2022.06.15-02.47.25:935][864]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2022.06.15-02.47.25:936][864]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2022.06.15-02.47.25:936][864]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2022.06.15-02.47.25:936][864]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2022.06.15-02.47.25:936][864]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2022.06.15-02.47.25:936][864]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2022.06.15-02.47.25:936][864]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2022.06.15-02.47.25:936][864]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2022.06.15-02.47.25:936][864]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2022.06.15-02.47.25:947][864]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2022.06.15-02.47.25:956][864]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2022.06.15-02.47.25:956][864]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2022.06.15-02.47.25:957][864]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2022.06.15-02.47.25:957][864]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2022.06.15-02.47.25:961][864]LogModuleManager: Shutting down and abandoning module NaniteTools (656)
+[2022.06.15-02.47.25:961][864]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (654)
+[2022.06.15-02.47.25:961][864]LogModuleManager: Shutting down and abandoning module SourceControlWindows (652)
+[2022.06.15-02.47.25:961][864]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2022.06.15-02.47.25:962][864]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2022.06.15-02.47.25:962][864]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module AudioMixer (627)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module AudioMixerCore (626)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2022.06.15-02.47.25:972][864]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2022.06.15-02.47.25:973][864]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (614)
+[2022.06.15-02.47.25:973][864]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (612)
+[2022.06.15-02.47.25:973][864]LogModuleManager: Shutting down and abandoning module TypedElementFramework (610)
+[2022.06.15-02.47.25:973][864]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (608)
+[2022.06.15-02.47.25:973][864]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2022.06.15-02.47.26:069][864]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2022.06.15-02.47.26:069][864]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2022.06.15-02.47.26:069][864]LogModuleManager: Shutting down and abandoning module MegascansPlugin (600)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module Bridge (598)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (596)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangePipelines (592)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeExport (590)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeMessages (588)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeImport (586)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeNodes (584)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (582)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (580)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module InterchangeEditor (578)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (576)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (574)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (572)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module CollectionManager (571)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (560)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (556)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ModelingOperators (554)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (552)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ModelingComponents (550)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (548)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module MeshModelingTools (546)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (544)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module GooglePAD (542)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (540)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (538)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (536)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module DynamicMesh (534)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (532)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (530)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module CableComponent (528)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module AudioCapture (526)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (525)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module AssetTags (522)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (520)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (512)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (510)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module MediaCompositing (506)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ImgMedia (504)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module TemplateSequence (502)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (500)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module SequencerScripting (498)
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (496)
+[2022.06.15-02.47.26:362][864]LogOpenImageDenoise: OIDN shutting down
+[2022.06.15-02.47.26:362][864]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (494)
+[2022.06.15-02.47.26:363][864]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (492)
+[2022.06.15-02.47.26:363][864]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (490)
+[2022.06.15-02.47.26:363][864]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (488)
+[2022.06.15-02.47.26:363][864]LogModuleManager: Shutting down and abandoning module MeshLODToolset (486)
+[2022.06.15-02.47.26:377][864]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (484)
+[2022.06.15-02.47.26:381][864]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (482)
+[2022.06.15-02.47.26:391][864]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (480)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (478)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (477)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (474)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module AlembicImporter (472)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module AlembicLibrary (471)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module GeometryCache (470)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (469)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (462)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module ChaosNiagara (460)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (458)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module FractureEditor (456)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module BackChannel (454)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (452)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module AutomationUtils (450)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (448)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (446)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (444)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (442)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module StylusInput (440)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (438)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module PluginBrowser (436)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (434)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (432)
+[2022.06.15-02.47.26:392][864]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (430)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (428)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (426)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module EditorDebugTools (424)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module CurveEditorTools (422)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (420)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module CryptoKeys (418)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (416)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (414)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (412)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (410)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module UObjectPlugin (408)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (406)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module PluginUtils (404)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (402)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (400)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module GitSourceControl (398)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (396)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (394)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (392)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (390)
+[2022.06.15-02.47.26:393][864]LogModuleManager: Shutting down and abandoning module Paper2DEditor (388)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (386)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module ControlRigSpline (384)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (376)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module SignificanceManager (374)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2022.06.15-02.47.26:394][864]LogModuleManager: Shutting down and abandoning module UdpMessaging (362)
+[2022.06.15-02.47.26:495][864]LogModuleManager: Shutting down and abandoning module TcpMessaging (360)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (358)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module ActorSequence (356)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (354)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (352)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module Niagara (350)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module SignalProcessing (349)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module NiagaraCore (344)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module PBIK (342)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module FullBodyIK (340)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module GameplayCameras (338)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (336)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module FacialAnimation (334)
+[2022.06.15-02.47.26:596][864]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2022.06.15-02.47.26:597][864]LogModuleManager: Shutting down and abandoning module DataValidation (330)
+[2022.06.15-02.47.26:597][864]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (328)
+[2022.06.15-02.47.26:597][864]LogModuleManager: Shutting down and abandoning module LevelEditor (327)
+[2022.06.15-02.47.26:603][864]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (326)
+[2022.06.15-02.47.26:603][864]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (324)
+[2022.06.15-02.47.26:603][864]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (322)
+[2022.06.15-02.47.26:603][864]LogModuleManager: Shutting down and abandoning module MainFrame (320)
+[2022.06.15-02.47.26:603][864]LogModuleManager: Shutting down and abandoning module HotReload (319)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module ContentBrowser (315)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module ToolMenus (314)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module ContentBrowserData (312)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module TreeMap (309)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (306)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (304)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module AnimationSharing (302)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (300)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (298)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module ControlRig (296)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module LevelSequence (295)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (290)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module IKRig (288)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2022.06.15-02.47.26:604][864]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2022.06.15-02.47.26:605][864]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module Core (222)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2022.06.15-02.47.26:607][864]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2022.06.15-02.47.26:608][864]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2022.06.15-02.47.26:608][864]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2022.06.15-02.47.26:608][864]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2022.06.15-02.47.26:608][864]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2022.06.15-02.47.26:617][864]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2022.06.15-02.47.26:618][864]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.06.15-02.47.26:619][864]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2022.06.15-02.47.26:620][864]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2022.06.15-02.47.26:622][864]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2022.06.15-02.47.26:622][864]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2022.06.15-02.47.26:642][864]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2022.06.15-02.47.26:642][864]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.06.15-02.47.26:642][864]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7AAAD7-45F4-9F5A-B4F8-039848D1DBB3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.2-20280985%2B%2B%2BUE5%2BRelease-5.0&UserID=7f631e3641bd670ddfac20b64bb778b2%7C28c0473dc1bc4d37ade3b2185a66bcf6%7Cd6530c7f-9902-459c-9f21-489436916f2b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.06.15-02.47.26:642][864]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2022.06.15-02.47.26:675][864]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2022.06.15-02.47.26:678][864]LogModuleManager: Shutting down and abandoning module WmfMedia (78)
+[2022.06.15-02.47.26:680][864]LogModuleManager: Shutting down and abandoning module Media (77)
+[2022.06.15-02.47.26:681][864]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (74)
+[2022.06.15-02.47.26:681][864]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2022.06.15-02.47.26:681][864]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2022.06.15-02.47.26:681][864]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2022.06.15-02.47.26:681][864]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2022.06.15-02.47.26:681][864]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2022.06.15-02.47.26:681][864]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.06.15-02.47.26:682][864]LogXGEController: Cleaning working directory: C:/Users/Renkai/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.06.15-02.47.26:682][864]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.06.15-02.47.26:683][864]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.06.15-02.47.26:683][864]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.06.15-02.47.26:683][864]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.06.15-02.47.26:683][864]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.06.15-02.47.26:684][864]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.06.15-02.47.26:684][864]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.06.15-02.47.26:684][864]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.06.15-02.47.26:684][864]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.06.15-02.47.26:684][864]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.06.15-02.47.26:685][864]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.06.15-02.47.26:685][864]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.06.15-02.47.26:686][864]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.06.15-02.47.26:686][864]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.06.15-02.47.26:686][864]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.06.15-02.47.26:686][864]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.06.15-02.47.26:686][864]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.06.15-02.47.26:686][864]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.06.15-02.47.26:686][864]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.06.15-02.47.26:686][864]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.06.15-02.47.26:760][864]LogD3D12RHI: Display: D3D12 ReleaseResources: 215 items to release
+[2022.06.15-02.47.26:788][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:788][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:788][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:790][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.26:791][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.26:792][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.26:792][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.26:792][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyCPUTexture", 3728224 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.26:792][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyTexture", 1368 x 662 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:793][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "BufferedRT", 1368 x 662 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:793][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:793][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:794][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:794][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:794][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:794][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:794][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:795][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:795][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:795][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:796][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:796][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:796][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:796][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:796][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:797][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:798][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:798][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:798][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:798][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:798][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:798][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:799][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:799][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:799][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:799][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:800][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:800][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:800][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:800][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:800][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:801][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:801][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:801][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:801][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:801][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:802][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:802][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:802][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:802][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:802][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:802][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:803][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:803][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:803][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:803][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:803][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.06.15-02.47.26:804][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 672 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:804][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 672 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:804][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 672 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:806][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:806][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:806][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:806][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:806][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:807][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:807][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:807][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:807][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:807][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:807][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:807][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:808][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:808][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:808][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:808][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:808][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:809][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:809][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:809][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:810][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:810][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:811][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:811][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:811][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:811][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:812][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:812][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:812][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:813][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:813][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2022.06.15-02.47.26:813][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:813][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:814][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.06.15-02.47.26:814][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:814][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:814][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:814][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_0", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:815][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:815][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.06.15-02.47.26:815][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.06.15-02.47.26:816][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.06.15-02.47.26:816][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.06.15-02.47.26:816][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.06.15-02.47.26:816][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.06.15-02.47.26:816][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:817][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2022.06.15-02.47.26:817][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:817][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:818][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:818][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:818][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:819][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.06.15-02.47.26:819][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.06.15-02.47.26:819][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:819][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1368 x 792 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.06.15-02.47.26:820][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1368 x 792 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:820][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1368 x 792 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:820][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaft.TemporalAA", 684 x 396 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:820][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:821][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1368 x 792 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:821][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1368 x 792 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:821][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:822][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.06.15-02.47.26:822][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.06.15-02.47.26:822][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:823][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:823][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 342 x 166 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.06.15-02.47.26:823][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 342 x 166 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2022.06.15-02.47.26:824][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.06.15-02.47.26:824][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1368 x 792 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:824][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.06.15-02.47.26:824][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:825][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:826][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1368 x 792 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.06.15-02.47.26:826][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 86 x 75 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.06.15-02.47.26:827][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:827][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1368 x 792 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:827][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 684 x 331 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.06.15-02.47.26:827][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 684 x 331 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:827][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.06.15-02.47.26:828][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.06.15-02.47.26:828][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 684 x 331 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.06.15-02.47.26:828][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 684 x 331 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:828][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 86 x 75 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.06.15-02.47.26:828][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 688 x 600 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:829][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.06.15-02.47.26:829][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1368 x 792 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:829][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1368 x 792 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2022.06.15-02.47.26:830][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 43 x 21 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:830][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 43 x 21 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:830][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1368 x 792 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:830][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:832][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:832][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.06.15-02.47.26:832][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:832][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.06.15-02.47.26:832][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.06.15-02.47.26:832][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.06.15-02.47.26:833][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 1368 x 792 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:833][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1368 x 792 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.06.15-02.47.26:833][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1368 x 792 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.06.15-02.47.26:833][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1368 x 792 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:833][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1368 x 792 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:833][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1368 x 792 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:834][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 2736 x 1584 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2022.06.15-02.47.26:834][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:834][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:834][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:834][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 4096 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.06.15-02.47.26:838][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:838][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2022.06.15-02.47.26:838][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2022.06.15-02.47.26:838][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2022.06.15-02.47.26:839][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2022.06.15-02.47.26:839][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2022.06.15-02.47.26:839][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.06.15-02.47.26:840][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.06.15-02.47.26:840][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2022.06.15-02.47.26:840][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.06.15-02.47.26:841][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:841][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget0", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.06.15-02.47.26:841][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.CapturedSkyRenderTarget", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.06.15-02.47.26:841][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget1", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.06.15-02.47.26:842][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:842][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:842][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.06.15-02.47.26:842][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHGreenAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:842][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHRedAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:843][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceRadianceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.06.15-02.47.26:843][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:844][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:844][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHBlueAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:845][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:845][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.06.15-02.47.26:845][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.06.15-02.47.26:845][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.06.15-02.47.26:845][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:845][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:845][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:846][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:846][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.06.15-02.47.26:846][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostNodesAndClusterBatchesBuffer", 44040192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.06.15-02.47.26:847][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.26:848][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.26:848][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.26:848][864]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.06.15-02.47.27:117][864]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.06.15-02.47.27:118][864]LogExit: Exiting.
+[2022.06.15-02.47.27:146][864]Log file closed, 06/14/22 22:47:27
