@@ -977,3 +977,11 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.18-03.14.37:050][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.06.18-03.14.37:054][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2022.06.18-03.14.37:085][976]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.06.18-03.17.26:042][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.18-03.17.26:077][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.06.18-03.17.26:117][188]LogSavePackage: Moving output files for package: /Game/Main
+[2022.06.18-03.17.26:117][188]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Main5745112043BC4661C2D935903F20B1C5.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap'
+[2022.06.18-03.17.26:127][188]LogFileHelpers: No new changes to save!
+[2022.06.18-03.17.26:127][188]LogFileHelpers: Saving map 'Main' took 0.086
+[2022.06.18-03.17.26:140][188]AssetCheck: New page: Asset Save: Main
+[2022.06.18-03.17.26:140][188]LogContentValidation: Display: Validating World /Game/Main.Main
