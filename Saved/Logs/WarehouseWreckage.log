@@ -1118,3 +1118,17 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.18-03.32.41:227][337]LogFileHelpers: Saving map 'Main' took 0.094
 [2022.06.18-03.32.41:240][337]AssetCheck: New page: Asset Save: Main
 [2022.06.18-03.32.41:240][337]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.06.18-03.42.42:933][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.06.18-03.42.42:938][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.18-03.42.42:979][711]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2022.06.18-03.42.42:980][711]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Main_Auto1ED6AEF7045D325221662F1911024691C.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap'
+[2022.06.18-03.42.43:028][711]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.131
+[2022.06.18-03.42.43:028][711]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2022.06.18-03.42.47:745][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.18-03.42.47:779][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.18-03.42.47:821][270]LogSavePackage: Moving output files for package: /Game/Main
+[2022.06.18-03.42.47:822][270]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/WarehouseWreckage/Saved/Main55CEC5A24BF32FC8C883869C87DF641F.tmp' to '../../../../../Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap'
+[2022.06.18-03.42.47:832][270]LogFileHelpers: No new changes to save!
+[2022.06.18-03.42.47:832][270]LogFileHelpers: Saving map 'Main' took 0.088
+[2022.06.18-03.42.47:847][270]AssetCheck: New page: Asset Save: Main
+[2022.06.18-03.42.47:847][270]LogContentValidation: Display: Validating World /Game/Main.Main
